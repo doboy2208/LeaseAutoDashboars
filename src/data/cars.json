@@ -1,0 +1,994 @@
+[
+  {
+    "id": "tesla-model-y-juniper-long-range",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "trim": "Juniper Long Range",
+    "segment": "SUV",
+    "lease": {
+      "pricePerMonth": 950,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 622,
+      "dcChargingKw": 250,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 854,
+      "frunkLiters": 117
+    },
+    "dataQuality": {
+      "overallConfidence": "high",
+      "maintenanceStatus": "verified"
+    },
+    "highlights": [
+      "Meest complete totaalpakket",
+      "Zeer veel ruimte",
+      "Sterke laadprestaties"
+    ],
+    "watchouts": [
+      "Hoge maandprijs",
+      "Minimalistisch interieur is smaakgevoelig"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "memorySeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedRearSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "ventilatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSteeringMemory": {
+        "value": true,
+        "confidence": "high"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "high"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "high"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "high"
+      },
+      "poweredTailgate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "acousticGlass": {
+        "value": true,
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "id": "volkswagen-id3-neo-style",
+    "brand": "Volkswagen",
+    "model": "ID.3 Neo",
+    "trim": "Style",
+    "segment": "Hatchback",
+    "lease": {
+      "pricePerMonth": 811,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 625,
+      "dcChargingKw": 183,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 385,
+      "frunkLiters": 0
+    },
+    "dataQuality": {
+      "overallConfidence": "high",
+      "maintenanceStatus": "verified"
+    },
+    "highlights": [
+      "Beste balans bereik/prijs",
+      "Rijke Style-uitrusting",
+      "Zeer hoge WLTP-range"
+    ],
+    "watchouts": [
+      "Minder bagageruimte",
+      "Geen frunk"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "memorySeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "ventilatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "high"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "high"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "high"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "high"
+      },
+      "poweredTailgate": {
+        "value": false,
+        "confidence": "high"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "id": "volkswagen-id4-limited-edition",
+    "brand": "Volkswagen",
+    "model": "ID.4",
+    "trim": "Limited Edition 140 kW",
+    "segment": "SUV",
+    "lease": {
+      "pricePerMonth": 748,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 426,
+      "dcChargingKw": 105,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 533,
+      "frunkLiters": 0
+    },
+    "dataQuality": {
+      "overallConfidence": "high",
+      "maintenanceStatus": "verified"
+    },
+    "highlights": [
+      "Beste ruime value-SUV",
+      "Veel opties voor het geld",
+      "Grote kofferbak"
+    ],
+    "watchouts": [
+      "Lage DC-laadsnelheid",
+      "Range minder dan topmodellen"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "memorySeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "high"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "high"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "high"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "high"
+      },
+      "poweredTailgate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "id": "mercedes-glb-business-solution-amg",
+    "brand": "Mercedes-Benz",
+    "model": "GLB",
+    "trim": "Business Solution AMG",
+    "segment": "SUV",
+    "lease": {
+      "pricePerMonth": 1012,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 610,
+      "dcChargingKw": 320,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 570,
+      "frunkLiters": 101
+    },
+    "dataQuality": {
+      "overallConfidence": "medium",
+      "maintenanceStatus": "in_verification"
+    },
+    "highlights": [
+      "Beste laadprestaties",
+      "Veel ruimte",
+      "Premium uitstraling"
+    ],
+    "watchouts": [
+      "Duurste auto",
+      "Stoelcomfort minder compleet dan verwacht"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "memorySeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "poweredTailgate": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "medium"
+      }
+    }
+  },
+  {
+    "id": "volvo-ex40-plus-europa",
+    "brand": "Volvo",
+    "model": "EX40",
+    "trim": "Plus Europa",
+    "segment": "SUV",
+    "lease": {
+      "pricePerMonth": 967,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 575,
+      "dcChargingKw": 205,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 410,
+      "frunkLiters": 31
+    },
+    "dataQuality": {
+      "overallConfidence": "high",
+      "maintenanceStatus": "verified"
+    },
+    "highlights": [
+      "Zeer complete uitrusting",
+      "Volvo-veiligheid",
+      "Goede range"
+    ],
+    "watchouts": [
+      "Relatief duur",
+      "Minder ruim dan Model Y/ID.4"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "memorySeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedRearSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "high"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "high"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "high"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "high"
+      },
+      "poweredTailgate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "id": "bmw-ix1-edrive20-msport",
+    "brand": "BMW",
+    "model": "iX1 eDrive20",
+    "trim": "M Sport + Innovation Pack",
+    "segment": "SUV",
+    "lease": {
+      "pricePerMonth": 842,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 475,
+      "dcChargingKw": 130,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 490,
+      "frunkLiters": 0
+    },
+    "dataQuality": {
+      "overallConfidence": "medium",
+      "maintenanceStatus": "in_verification"
+    },
+    "highlights": [
+      "Premium gevoel",
+      "Sterke uitrusting",
+      "Goede praktische ruimte"
+    ],
+    "watchouts": [
+      "Geen frunk",
+      "Prijs/waarde niet uitzonderlijk"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSeats": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "memorySeats": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingSideMirrors": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "poweredTailgate": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "medium"
+      }
+    }
+  },
+  {
+    "id": "skoda-epiq-business-launch",
+    "brand": "Skoda",
+    "model": "Epiq",
+    "trim": "Business Launch Edition 155 kW",
+    "segment": "Compact SUV",
+    "lease": {
+      "pricePerMonth": 668.9,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 440,
+      "dcChargingKw": 125,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 475,
+      "frunkLiters": 25
+    },
+    "dataQuality": {
+      "overallConfidence": "low",
+      "maintenanceStatus": "in_verification"
+    },
+    "highlights": [
+      "Veelbelovende prijs",
+      "Goede ruimte",
+      "Interessante range"
+    ],
+    "watchouts": [
+      "Uitvoeringdetails nog onzeker",
+      "Niet alle opties hard bevestigd"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "low"
+      },
+      "electricSeats": {
+        "value": false,
+        "confidence": "low"
+      },
+      "memorySeats": {
+        "value": false,
+        "confidence": "low"
+      },
+      "lumbarSupport": {
+        "value": false,
+        "confidence": "low"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "low"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "low"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "low"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "low"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "low"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "low"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "low"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "low"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "low"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "low"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "low"
+      },
+      "dimmingRearMirror": {
+        "value": false,
+        "confidence": "low"
+      },
+      "dimmingSideMirrors": {
+        "value": false,
+        "confidence": "low"
+      },
+      "poweredTailgate": {
+        "value": false,
+        "confidence": "low"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "low"
+      }
+    }
+  },
+  {
+    "id": "volvo-ex30-core-europa-climate",
+    "brand": "Volvo",
+    "model": "EX30 P3",
+    "trim": "Core Europa + Climate Pack",
+    "segment": "Compact SUV",
+    "lease": {
+      "pricePerMonth": 730,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 339,
+      "dcChargingKw": 134,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 318,
+      "frunkLiters": 7
+    },
+    "dataQuality": {
+      "overallConfidence": "high",
+      "maintenanceStatus": "verified"
+    },
+    "highlights": [
+      "Compact en betaalbaar",
+      "Climate Pack meegenomen",
+      "Volvo-veiligheid"
+    ],
+    "watchouts": [
+      "Beperkte range",
+      "Kleine bagageruimte",
+      "Minder luxe opties"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "memorySeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "lumbarSupport": {
+        "value": false,
+        "confidence": "high"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "high"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "high"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "high"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "high"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "high"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "adaptiveCruise": {
+        "value": false,
+        "confidence": "high"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "high"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "high"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "high"
+      },
+      "dimmingRearMirror": {
+        "value": false,
+        "confidence": "high"
+      },
+      "dimmingSideMirrors": {
+        "value": false,
+        "confidence": "high"
+      },
+      "poweredTailgate": {
+        "value": false,
+        "confidence": "high"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "high"
+      }
+    }
+  },
+  {
+    "id": "volkswagen-id-polo-style",
+    "brand": "Volkswagen",
+    "model": "ID. Polo",
+    "trim": "Style 37 kWh 99 kW",
+    "segment": "Compact",
+    "lease": {
+      "pricePerMonth": 643,
+      "contractKmPerYear": 30000
+    },
+    "specs": {
+      "rangeKm": 329,
+      "dcChargingKw": 90,
+      "acChargingKw": 11,
+      "doors": 5,
+      "trunkLiters": 435,
+      "frunkLiters": 0
+    },
+    "dataQuality": {
+      "overallConfidence": "medium",
+      "maintenanceStatus": "in_verification"
+    },
+    "highlights": [
+      "Laagste leaseprijs",
+      "Compact formaat",
+      "Style-pakket meegenomen"
+    ],
+    "watchouts": [
+      "Beperkte range",
+      "Minder compleet",
+      "Lage DC-laadsnelheid"
+    ],
+    "features": {
+      "climateControl": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "memorySeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "lumbarSupport": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedFrontSeats": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "heatedRearSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "ventilatedFrontSeats": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "heatedSteeringWheel": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "electricSteeringMemory": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "remoteClimate": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "laneAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "adaptiveCruise": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "onePedalDrive": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "parkAssist": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "rearCamera": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingRearMirror": {
+        "value": true,
+        "confidence": "medium"
+      },
+      "dimmingSideMirrors": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "poweredTailgate": {
+        "value": false,
+        "confidence": "medium"
+      },
+      "acousticGlass": {
+        "value": false,
+        "confidence": "medium"
+      }
+    }
+  }
+]

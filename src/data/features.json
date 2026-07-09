@@ -1,0 +1,97 @@
+[
+  {
+    "id": "climateControl",
+    "label": "Climate control",
+    "type": "boolean"
+  },
+  {
+    "id": "electricSeats",
+    "label": "Stoelen elektrisch verstelbaar",
+    "type": "boolean"
+  },
+  {
+    "id": "memorySeats",
+    "label": "Elektrische stoelen met geheugenfunctie",
+    "type": "boolean"
+  },
+  {
+    "id": "lumbarSupport",
+    "label": "Lendesteun",
+    "type": "boolean"
+  },
+  {
+    "id": "heatedFrontSeats",
+    "label": "Stoelverwarming voor",
+    "type": "boolean"
+  },
+  {
+    "id": "heatedRearSeats",
+    "label": "Stoelverwarming achter",
+    "type": "boolean"
+  },
+  {
+    "id": "ventilatedFrontSeats",
+    "label": "Stoelventilatie voor",
+    "type": "boolean"
+  },
+  {
+    "id": "heatedSteeringWheel",
+    "label": "Stuurverwarming",
+    "type": "boolean"
+  },
+  {
+    "id": "electricSteeringMemory",
+    "label": "Elektrisch verstelbaar stuur met geheugenfunctie",
+    "type": "boolean"
+  },
+  {
+    "id": "remoteClimate",
+    "label": "Op afstand koelen/verwarmen",
+    "type": "boolean"
+  },
+  {
+    "id": "laneAssist",
+    "label": "Lane assist",
+    "type": "boolean"
+  },
+  {
+    "id": "adaptiveCruise",
+    "label": "Adaptive Cruise Control",
+    "type": "boolean"
+  },
+  {
+    "id": "onePedalDrive",
+    "label": "One pedal drive",
+    "type": "boolean"
+  },
+  {
+    "id": "parkAssist",
+    "label": "Park assist",
+    "type": "boolean"
+  },
+  {
+    "id": "rearCamera",
+    "label": "Achteruitrijcamera",
+    "type": "boolean"
+  },
+  {
+    "id": "dimmingRearMirror",
+    "label": "Automatisch dimmende binnenspiegel",
+    "type": "boolean"
+  },
+  {
+    "id": "dimmingSideMirrors",
+    "label": "Automatisch dimmende zijspiegels",
+    "type": "boolean"
+  },
+  {
+    "id": "poweredTailgate",
+    "label": "Automatische achterklep",
+    "type": "boolean"
+  },
+  {
+    "id": "acousticGlass",
+    "label": "Geluidsdempend glas",
+    "type": "boolean"
+  }
+]

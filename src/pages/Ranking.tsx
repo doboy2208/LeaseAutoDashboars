@@ -1,0 +1,26 @@
+import type { Car, Scores } from '../types/domain';
+import { featureCount, totalScore } from '../services/scoreEngine';
+import { formatEuro } from '../utils/format';
+
+interface Props {
+  cars: Car[];
+  weights: Scores;
+}
+
+export function Ranking({ cars, weights }: Props) {
+  const ranked = [...cars].sort((a, b) => totalScore(b, weights) - totalScore(a, weights));
+
+  return (
+    <section className="page">
+      <div className="section-head"><div><p className="eyebrow">Beslissing</p><h2>Ranglijst</h2></div></div>
+      <div className="panel tablewrap">
+        <table>
+          <thead><tr><th>#</th><th>Merk</th><th>Model</th><th>Score</th><th>Prijs</th><th>Range</th><th>DC</th><th>Bagage</th><th>Opties</th><th>Data</th></tr></thead>
+          <tbody>{ranked.map((car, index) => (
+            <tr key={car.id}><td className="rankcell">{index + 1}</td><td>{car.brand}</td><td>{car.model} {car.trim}</td><td>{Math.round(totalScore(car, weights))}</td><td>{formatEuro(car.lease.pricePerMonth)}</td><td>{car.specs.rangeKm} km</td><td>{car.specs.dcChargingKw} kW</td><td>{car.specs.trunkLiters + car.specs.frunkLiters} L</td><td>{featureCount(car)}/19</td><td>{car.dataQuality.overallConfidence}</td></tr>
+          ))}</tbody>
+        </table>
+      </div>
+    </section>
+  );
+}
