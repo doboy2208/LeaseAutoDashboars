@@ -1,0 +1,112 @@
+{
+  "id": "skoda-epiq-business-launch-edition-155kw",
+  "brand": "Skoda",
+  "model": "Epiq",
+  "trim": "Business Launch Edition 155 kW",
+  "segment": "Compact SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Skoda%20Epiq%20Business%20Launch%20Edition&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 668.9,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 440,
+    "dcChargingKw": 125,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 475,
+    "frunkLiters": 25
+  },
+  "dataQuality": {
+    "overallConfidence": "low",
+    "maintenanceStatus": "in_verification"
+  },
+  "highlights": [
+    "Veelbelovende prijs",
+    "Goede ruimte",
+    "Interessante range"
+  ],
+  "watchouts": [
+    "Uitvoeringdetails nog onzeker",
+    "Niet alle opties hard bevestigd"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "low"
+    },
+    "electricSeats": {
+      "value": false,
+      "confidence": "low"
+    },
+    "memorySeats": {
+      "value": false,
+      "confidence": "low"
+    },
+    "lumbarSupport": {
+      "value": false,
+      "confidence": "low"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "low"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "low"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "low"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "low"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "low"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "low"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "low"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "low"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "low"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "low"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "low"
+    },
+    "dimmingRearMirror": {
+      "value": false,
+      "confidence": "low"
+    },
+    "dimmingSideMirrors": {
+      "value": false,
+      "confidence": "low"
+    },
+    "poweredTailgate": {
+      "value": false,
+      "confidence": "low"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "low"
+    }
+  },
+  "sources": []
+}

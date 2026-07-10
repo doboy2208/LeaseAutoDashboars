@@ -1,0 +1,4 @@
+import type { Scores } from '../types/domain';
+interface Props { weights: Scores; setWeights: (weights: Scores) => void }
+const labels: Record<keyof Scores, string> = { comfort: 'Comfort', technology: 'Technologie', space: 'Ruimte', charging: 'Laden', value: 'Prijs/kwaliteit' };
+export function ScoreModel({ weights, setWeights }: Props) { return <section className="page"><div className="section-head"><div><p className="eyebrow">Persoonlijke voorkeuren</p><h2>Scoremodel</h2></div></div><div className="weights">{(Object.keys(weights) as (keyof Scores)[]).map((key)=><div className="weight-card" key={key}><strong><span>{labels[key]}</span><span>{weights[key]}%</span></strong><input type="range" min="0" max="50" value={weights[key]} onChange={(event)=>setWeights({ ...weights, [key]: Number(event.target.value) })} /></div>)}</div></section>; }

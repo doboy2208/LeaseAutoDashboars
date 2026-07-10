@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tesla-model-y-juniper-long-range",
+    "file": "cars/tesla-model-y-juniper-long-range.json"
+  },
+  {
+    "id": "volkswagen-id3-neo-style",
+    "file": "cars/volkswagen-id3-neo-style.json"
+  },
+  {
+    "id": "volkswagen-id4-limited-edition-140kw",
+    "file": "cars/volkswagen-id4-limited-edition-140kw.json"
+  },
+  {
+    "id": "mercedes-glb-business-solution-amg",
+    "file": "cars/mercedes-glb-business-solution-amg.json"
+  },
+  {
+    "id": "volvo-ex40-plus-europa",
+    "file": "cars/volvo-ex40-plus-europa.json"
+  },
+  {
+    "id": "bmw-ix1-edrive20-msport-innovation-pack",
+    "file": "cars/bmw-ix1-edrive20-msport-innovation-pack.json"
+  },
+  {
+    "id": "skoda-epiq-business-launch-edition-155kw",
+    "file": "cars/skoda-epiq-business-launch-edition-155kw.json"
+  },
+  {
+    "id": "volvo-ex30-p3-core-europa-climate-pack",
+    "file": "cars/volvo-ex30-p3-core-europa-climate-pack.json"
+  },
+  {
+    "id": "volkswagen-id-polo-style-37kwh-99kw",
+    "file": "cars/volkswagen-id-polo-style-37kwh-99kw.json"
+  }
+]

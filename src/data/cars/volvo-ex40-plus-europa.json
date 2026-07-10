@@ -1,0 +1,112 @@
+{
+  "id": "volvo-ex40-plus-europa",
+  "brand": "Volvo",
+  "model": "EX40",
+  "trim": "Plus Europa",
+  "segment": "SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Volvo%20EX40%20Plus%20Europa&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 967,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 575,
+    "dcChargingKw": 205,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 410,
+    "frunkLiters": 31
+  },
+  "dataQuality": {
+    "overallConfidence": "high",
+    "maintenanceStatus": "verified"
+  },
+  "highlights": [
+    "Zeer complete uitrusting",
+    "Volvo-veiligheid",
+    "Goede range"
+  ],
+  "watchouts": [
+    "Relatief duur",
+    "Minder ruim dan Model Y/ID.4"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "memorySeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedRearSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "high"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "high"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "high"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "high"
+    },
+    "poweredTailgate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "high"
+    }
+  },
+  "sources": []
+}

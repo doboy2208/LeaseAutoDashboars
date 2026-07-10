@@ -1,0 +1,34 @@
+{
+  "weights": {
+    "comfort": 25,
+    "technology": 20,
+    "space": 15,
+    "charging": 15,
+    "value": 25
+  },
+  "groups": {
+    "comfort": [
+      "climateControl",
+      "electricSeats",
+      "memorySeats",
+      "lumbarSupport",
+      "heatedFrontSeats",
+      "heatedRearSeats",
+      "ventilatedFrontSeats",
+      "heatedSteeringWheel",
+      "remoteClimate"
+    ],
+    "technology": [
+      "laneAssist",
+      "adaptiveCruise",
+      "onePedalDrive",
+      "parkAssist",
+      "rearCamera",
+      "dimmingRearMirror",
+      "dimmingSideMirrors",
+      "poweredTailgate",
+      "electricSteeringMemory",
+      "acousticGlass"
+    ]
+  }
+}

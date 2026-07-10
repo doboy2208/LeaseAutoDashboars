@@ -1,0 +1,112 @@
+{
+  "id": "mercedes-glb-business-solution-amg",
+  "brand": "Mercedes-Benz",
+  "model": "GLB",
+  "trim": "Business Solution AMG",
+  "segment": "SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Mercedes%20Benz%20GLB%20electric%20Business%20Solution%20AMG&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 1012,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 610,
+    "dcChargingKw": 320,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 570,
+    "frunkLiters": 101
+  },
+  "dataQuality": {
+    "overallConfidence": "medium",
+    "maintenanceStatus": "in_verification"
+  },
+  "highlights": [
+    "Beste laadprestaties",
+    "Veel ruimte",
+    "Premium uitstraling"
+  ],
+  "watchouts": [
+    "Duurste auto",
+    "Stoelcomfort minder compleet dan verwacht"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "memorySeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "poweredTailgate": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "medium"
+    }
+  },
+  "sources": []
+}

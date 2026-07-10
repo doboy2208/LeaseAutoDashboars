@@ -1,0 +1,112 @@
+{
+  "id": "volkswagen-id4-limited-edition-140kw",
+  "brand": "Volkswagen",
+  "model": "ID.4",
+  "trim": "Limited Edition 140 kW",
+  "segment": "SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Volkswagen%20ID.4%20Limited%20Edition%20140%20kW&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 748,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 426,
+    "dcChargingKw": 105,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 533,
+    "frunkLiters": 0
+  },
+  "dataQuality": {
+    "overallConfidence": "high",
+    "maintenanceStatus": "verified"
+  },
+  "highlights": [
+    "Beste ruime value-SUV",
+    "Veel opties voor het geld",
+    "Grote kofferbak"
+  ],
+  "watchouts": [
+    "Lage DC-laadsnelheid",
+    "Range minder dan topmodellen"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "memorySeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "high"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "high"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "high"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "high"
+    },
+    "poweredTailgate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "high"
+    }
+  },
+  "sources": []
+}

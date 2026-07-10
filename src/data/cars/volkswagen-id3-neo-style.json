@@ -1,0 +1,112 @@
+{
+  "id": "volkswagen-id3-neo-style",
+  "brand": "Volkswagen",
+  "model": "ID.3 Neo",
+  "trim": "Style",
+  "segment": "Hatchback",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Volkswagen%20ID.3%20Neo%20Style&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 811,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 625,
+    "dcChargingKw": 183,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 385,
+    "frunkLiters": 0
+  },
+  "dataQuality": {
+    "overallConfidence": "high",
+    "maintenanceStatus": "verified"
+  },
+  "highlights": [
+    "Beste balans bereik/prijs",
+    "Rijke Style-uitrusting",
+    "Zeer hoge WLTP-range"
+  ],
+  "watchouts": [
+    "Minder bagageruimte",
+    "Geen frunk"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "memorySeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "ventilatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "high"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "high"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "high"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "high"
+    },
+    "poweredTailgate": {
+      "value": false,
+      "confidence": "high"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "high"
+    }
+  },
+  "sources": []
+}

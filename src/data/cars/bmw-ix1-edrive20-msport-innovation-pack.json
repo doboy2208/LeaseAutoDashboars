@@ -1,0 +1,112 @@
+{
+  "id": "bmw-ix1-edrive20-msport-innovation-pack",
+  "brand": "BMW",
+  "model": "iX1 eDrive20",
+  "trim": "M Sport Innovation Pack",
+  "segment": "SUV",
+  "imageUrl": "https://cms-assets.autoscout24.com/uaddx06iwzdz/7lxVbVFS8SwYC7dHtRJnyc/49a2563716d2a2a11b8fb89457bbefd5/bmw-ix1-2022-1.jpg?w=1100",
+  "lease": {
+    "pricePerMonth": 842,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 475,
+    "dcChargingKw": 130,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 490,
+    "frunkLiters": 0
+  },
+  "dataQuality": {
+    "overallConfidence": "medium",
+    "maintenanceStatus": "in_verification"
+  },
+  "highlights": [
+    "Premium gevoel",
+    "Sterke uitrusting",
+    "Goede praktische ruimte"
+  ],
+  "watchouts": [
+    "Geen frunk",
+    "Prijs/waarde niet uitzonderlijk"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSeats": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "memorySeats": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "poweredTailgate": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "medium"
+    }
+  },
+  "sources": []
+}

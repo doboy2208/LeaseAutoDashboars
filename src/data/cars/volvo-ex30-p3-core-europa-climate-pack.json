@@ -1,0 +1,113 @@
+{
+  "id": "volvo-ex30-p3-core-europa-climate-pack",
+  "brand": "Volvo",
+  "model": "EX30 P3",
+  "trim": "Core Europa + Climate Pack",
+  "segment": "Compact SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Volvo%20EX30%20Core%20Europa%20Climate%20Pack&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 730,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 339,
+    "dcChargingKw": 134,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 318,
+    "frunkLiters": 7
+  },
+  "dataQuality": {
+    "overallConfidence": "high",
+    "maintenanceStatus": "verified"
+  },
+  "highlights": [
+    "Compact en betaalbaar",
+    "Climate Pack meegenomen",
+    "Volvo-veiligheid"
+  ],
+  "watchouts": [
+    "Beperkte range",
+    "Kleine bagageruimte",
+    "Minder luxe opties"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "memorySeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "lumbarSupport": {
+      "value": false,
+      "confidence": "high"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "high"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "high"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "adaptiveCruise": {
+      "value": false,
+      "confidence": "high"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "high"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingRearMirror": {
+      "value": false,
+      "confidence": "high"
+    },
+    "dimmingSideMirrors": {
+      "value": false,
+      "confidence": "high"
+    },
+    "poweredTailgate": {
+      "value": false,
+      "confidence": "high"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "high"
+    }
+  },
+  "sources": []
+}

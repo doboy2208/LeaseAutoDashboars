@@ -1,0 +1,112 @@
+{
+  "id": "tesla-model-y-juniper-long-range",
+  "brand": "Tesla",
+  "model": "Model Y",
+  "trim": "Juniper Long Range",
+  "segment": "SUV",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Tesla%20Model%20Y%20Juniper%20Long%20Range&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 950,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 622,
+    "dcChargingKw": 250,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 854,
+    "frunkLiters": 117
+  },
+  "dataQuality": {
+    "overallConfidence": "high",
+    "maintenanceStatus": "verified"
+  },
+  "highlights": [
+    "Meest complete totaalpakket",
+    "Zeer veel ruimte",
+    "Sterke laadprestaties"
+  ],
+  "watchouts": [
+    "Hoge maandprijs",
+    "Minimalistisch interieur is smaakgevoelig"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "memorySeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedRearSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "ventilatedFrontSeats": {
+      "value": true,
+      "confidence": "high"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "high"
+    },
+    "electricSteeringMemory": {
+      "value": true,
+      "confidence": "high"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "high"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "high"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "high"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "high"
+    },
+    "dimmingSideMirrors": {
+      "value": true,
+      "confidence": "high"
+    },
+    "poweredTailgate": {
+      "value": true,
+      "confidence": "high"
+    },
+    "acousticGlass": {
+      "value": true,
+      "confidence": "high"
+    }
+  },
+  "sources": []
+}

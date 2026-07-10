@@ -1,0 +1,113 @@
+{
+  "id": "volkswagen-id-polo-style-37kwh-99kw",
+  "brand": "Volkswagen",
+  "model": "ID. Polo",
+  "trim": "Style 37 kWh 99 kW",
+  "segment": "Compact",
+  "imageUrl": "https://tse1.mm.bing.net/th?q=Volkswagen%20ID%20Polo%20Style%20electric&w=1200&h=675",
+  "lease": {
+    "pricePerMonth": 643,
+    "contractKmPerYear": 30000
+  },
+  "specs": {
+    "rangeKm": 329,
+    "dcChargingKw": 90,
+    "acChargingKw": 11,
+    "doors": 5,
+    "trunkLiters": 435,
+    "frunkLiters": 0
+  },
+  "dataQuality": {
+    "overallConfidence": "medium",
+    "maintenanceStatus": "in_verification"
+  },
+  "highlights": [
+    "Laagste leaseprijs",
+    "Compact formaat",
+    "Style-pakket meegenomen"
+  ],
+  "watchouts": [
+    "Beperkte range",
+    "Minder compleet",
+    "Lage DC-laadsnelheid"
+  ],
+  "features": {
+    "climateControl": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "memorySeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "lumbarSupport": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedFrontSeats": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "heatedRearSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "ventilatedFrontSeats": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "heatedSteeringWheel": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "electricSteeringMemory": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "remoteClimate": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "laneAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "adaptiveCruise": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "onePedalDrive": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "parkAssist": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "rearCamera": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingRearMirror": {
+      "value": true,
+      "confidence": "medium"
+    },
+    "dimmingSideMirrors": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "poweredTailgate": {
+      "value": false,
+      "confidence": "medium"
+    },
+    "acousticGlass": {
+      "value": false,
+      "confidence": "medium"
+    }
+  },
+  "sources": []
+}
